@@ -1,0 +1,6 @@
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\bin\Debug\EstudoscomLinq.exe.config
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\bin\Debug\EstudoscomLinq.exe
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\bin\Debug\EstudoscomLinq.pdb
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\obj\Debug\EstudoscomLinq.exe
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\obj\Debug\EstudoscomLinq.pdb
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\EstudoscomLinq\EstudoscomLinq\EstudoscomLinq\obj\Debug\EstudoscomLinq.csprojResolveAssemblyReference.cache
